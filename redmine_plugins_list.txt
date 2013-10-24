@@ -1,0 +1,433 @@
+A luxury buttons
+Add default members to created project
+Add Subversion Links
+Add Watchers Textinput
+Advanced Drag&amp;Drop Gantt 
+Advanced Help Desk
+Advanced Membership Management
+Advanced reminder
+Advanced roadmap
+Advertising (Reklama)
+Agile Dwarf
+Alerts - Early Warning System
+All Time Team Plugin
+Allocation
+Announcements
+Anonymous Authors
+Anonymous Watchers
+apijs (with lightbox system)
+Application Menu Adds
+Assets Plugin
+Attach image from clipboard
+Attach Screenshot
+Attachments
+Attendance
+Author box
+Auto assigned user
+Auto Identifier
+Autohier
+Avoid duplicated name in projects list
+Backlogs
+Banner
+BaseCamp import
+Basic Polls
+Better Gantt Chart
+BigBlueButton
+Blocks layout
+Boards/Wiki/Issues watchers management
+Book Meeting Room
+Bookmarks on My Page 
+Bots Filter
+Budgets &amp; Cash-Flow
+BugCam
+BugHerd for Redmine
+Calculated Custom Fields
+Campfire Notifications
+Canned Responses
+Carousel
+CAS Web Authentication
+Changeauthor Plugin
+Charts 2
+Chat - JChat
+Chat - Real Time Messages
+Checklist
+Checkout
+ChiliVideos
+Close Column
+Close Issue button
+CMI
+Cmis for Redmine 2.x
+CMS
+Code block line numbering
+Code Review
+Coderwall Plugin
+Collapse Quotes
+Commit Relation Editor
+Configurable Applications Space
+Configurable projects view
+Conncection to cloud services
+Contact form
+Contacts - advanced database of contacts
+Context menu watchers
+Create multiples time entries
+CRM
+Custom CSS
+Custom Field for Best Practical RT Ticket Number
+Custom user fields
+Custom Workflows
+Customize Journal Display
+Daily Status
+Default queries per project
+Default Roles
+Default Version
+detailed timed tab
+Did You Mean?
+Diff Emails
+Digest
+DMSF
+DocPu, Document publishing plugin
+Documents Short
+Doodles
+Download button
+Dropbox Attachment Storage
+Due Date Reminder
+Duplicate views list
+Duty scheduler
+Easy Agile
+Easy Redmine
+ekanban
+Email Notification Content Filter
+Embedded Flash Macro
+Embedded Video
+Environment CSS
+Equipment Status Viewer
+EVM
+Expense Tracker
+Extended Fields
+Extended Profile
+Extended spent time
+Extended Watchers
+external_link
+Extra query operators plugin
+Favorite Locations
+Favorite projects
+Favourite issues
+Favourite Projects
+Fields permissions
+Finance
+Gantt Menu Link plugin
+Gantt with date
+Gems
+Gist Embed
+Github Hook
+Gitlab Merge Request
+Gitolite
+Gitolite Hook
+Gitosis
+GitRevision Download
+Glossary
+Google Apps login
+Google Docs
+Group Assignee Plugin
+Groups management plugin
+Haltr
+Harvest Timelog
+Help Desk
+Hide Emails by Default
+Hide Estimated Hours
+Hide Journal Details
+Hide Sidebar
+Hide user profile
+Hipchat Notifications (per project)
+holidays
+Hooks Manager (former Google Ads)
+Hoptoad Server v2
+Hudson
+Ical
+Image Uploader 2.2.2 of CKEditor plugin (CKFinder)
+Image Uploader of CKEditor plugin (CKFinder)
+Impasse
+Importer
+Improved Searchbox
+Incentify
+Initr
+Inline Note Images plugin
+Invoices
+Issue cloner
+Issue Closed Date
+Issue from message
+Issue History
+Issue Hot Buttons
+Issue Involvement Filter
+Issue notification
+Issue Template
+Issue vote plugin
+Issue Weight Balancer
+Issuefy
+Issuelimits plugin
+Joomla-Redmine Bridge
+JSON RPC API for Redmine
+Knowledge Base
+Knowledgebase
+Landing Page
+Language fallback
+Latest Forum Messages
+Latest Issues
+Ldap avatar plugin
+Ldap extra information plugin
+Lightbox Plugin for image attachment
+Like button
+Linked time entries plugin
+Local Avatars Plugin
+Localizable
+Login Audit
+Logs
+Mac OS X Identity Services authentication
+Mail Status
+Mantis2Redmine Migrator
+Meeting Manager
+Meetings
+Meetings
+Meta
+Milestones
+Monitoring &amp; Controlling
+MS Project Import
+Multi Calendar
+MultiPass SSO Authentication
+Multiple files upload/download
+My Page Queries
+My Projects
+My Projects
+My Roadmaps
+New Issue Alert List
+New Issue Alerts
+New Wiki Page Shortcut
+Niko-niko Calendar
+Niko-niko Calendar plugin for Redmine 2.X
+Notifo notifications
+Notify custom users
+OmniAuth CAS
+Open links in new window
+OpenID Fix
+OpenID Selector
+Opensearch
+Orangutan
+Outlook Attachment Preview
+Parking Lot Chart Plugin
+Pastebin
+Payroll - Budget Sheet - internal &amp; external cost of work
+People
+Per-Project Sidebar Content
+Periodic Tasks
+Plugin views revisions
+Posting issues helper API plugin
+Pretty News URLs
+Preview attach column/image gallery
+Private wiki
+Process Framework
+Progressive Projects List
+Project  Sections (Categories)
+Project Cost Estimation
+Project filtering
+Project identifier alias/rename
+Project Overview
+Project removal/redirection
+Project settings tabs hook
+Projects Accordion
+Projects table
+Projects Tree View
+Projectstyle
+Q&amp;A
+QA Contact
+Question Plugin
+Quick project planner
+R Graphs
+RD formatter
+Readme At Repositories
+Recaptcha 2.x
+Receive IMAP emails anonymously (patch)
+Redcase
+Reddrop
+RedFire
+Redmin RubyCAS
+Redmine 4 Cryptostocks
+Redmine ActiveRecord Session Store plugin
+Redmine all files
+Redmine Attach Screenshot
+Redmine Auto Percent
+Redmine AutoWatch
+Redmine Backlogs
+Redmine Bitbucket
+redmine boards
+Redmine Bootstrap
+Redmine Buildbot
+Redmine Bulk User Assignments
+Redmine CAS
+Redmine Category Tree
+Redmine Chuck Norris plugin
+Redmine CKEditor
+Redmine Cmis Plugin
+Redmine contacts
+Redmine Contracts with Time Tracking
+Redmine CORS
+Redmine Crowd
+Redmine Custom Field Hints
+Redmine Custom Recipients
+Redmine Cut Tag plugin
+Redmine Dashboard
+Redmine Dropbox Plugin
+Redmine Due Date By Default
+Redmine Email Reminder
+Redmine Embedded
+Redmine Freshbooks
+Redmine Git :: Gitolite Integration
+Redmine Git Branch Hook
+Redmine Gollum
+Redmine Graph Activities
+Redmine Harvest integration
+Redmine Hours
+Redmine HTTP Basic Authentication
+Redmine Import ReqPro
+Redmine Information
+Redmine issue id’s query plugin
+Redmine issues macros
+Redmine Issues Poll
+Redmine JOSSO Authentication Plugin
+Redmine jquery file upload plugin
+Redmine Ldap Sync
+Redmine Leaves 
+Redmine Local Avatars
+Redmine Mail Sender
+Redmine Notice Close Issue
+Redmine omniauth google
+Redmine Omniauth SAML
+Redmine open version filter
+Redmine Openmeetings
+Redmine OpenSearch
+Redmine Orphan Revisions
+Redmine PAM Auth
+Redmine Pipeline Plugin
+Redmine post link 
+Redmine Pretend
+Redmine Recaptcha
+Redmine Redcarpet Formatter
+Redmine Related Buster
+Redmine S3
+Redmine Scrum cards
+Redmine sidebar toc
+Redmine Sidekiq
+Redmine Slideshow
+Redmine SocioConnect
+Redmine Spent time
+Redmine Spent Time Required
+Redmine Start Page
+Redmine Stealth
+Redmine time limit
+Redmine Timesheet Plugin
+Redmine Touch
+Redmine Tracker Control
+Redmine Tweaks
+Redmine Update Reminder
+Redmine Upload Forms
+Redmine Viafirma Authentication Plugin
+Redmine Watcher Groups
+Redmine Wiki Books
+Redmine Wiki Encryptor
+Redmine Wiki SQL
+Redmine-Joomla! Bridge
+Redmine/ChiliProject Authentication Source for Invision Power Board
+Redmine/MS Project sync
+RedmineAttachByUrl
+redmine_browserid
+redmine_etherpad
+redmine_js_syntax_highlighter
+redmine_mailwrapper
+redmine_pdf_documents
+redmine_print_style_black
+Redmine_reminder
+redmine_remote_user_auth
+redmine_sladiator
+redmine_tags
+redmine_taskjuggler
+redmine_user_issues
+Redshares
+Release notes
+Reorder links arbitrary
+RepoSearch
+Repository browser
+Repository plugin
+Require Wiki Comment
+Resource Management, Utilization
+Resource Planner
+Roadmaps Plugin
+Role Shift
+Rougemine
+Round robin
+RT Import
+RTX Notify
+SAML Authentication
+SCM Creator
+SCM extensions
+Screenshot
+Scrum2B - Tool to be scrum/agile team
+Scrumbler
+Scrum_KL
+Searchable project jump box
+Self Spent Time
+Set Fields on Status Change
+Show Issue Descriptions
+Sidebar Issue Control
+Silencer
+Simple Todo List
+Single column custom fields
+Smart issues sort
+Snippets from Snipt
+Status Button
+Summed Fields
+Svn authentication plugin
+Sympa
+Templates
+TestLink Link
+Textilizable Custom Fields
+Theme Changer
+Ticket google map
+Time &amp; Expense
+Time Registry
+Time Tracker
+Timelog Timer
+Timesheet extensions
+To-Do List
+Todo lists (like on Basecamp)
+Trac Formatter
+Traceability
+Traceability matrix
+Trackmine
+TweetBook
+Ultraviolet Syntax Highlighting
+Updates notifier
+User CSV Import Plugin
+User Profiles
+User statuses
+Userlist as custom field
+Users XLS import/export
+Usersnap Redmine Integration
+Version Burndown Charts Plugin
+Watcher groups
+Watcher Sellection by Group
+Watcher Sellection by Role
+Webdav
+Whining
+Wiki Cipher
+Wiki Extensions
+Wiki GChart Formula Plugin
+Wiki HTML Utility
+Wiki Issue Fields
+Wiki Lists
+Wiki Notes
+Wiki Sidebar: Table of Content and Project Tree plugin
+Wiki Table-Of-Contents
+Wiki toolbar files button
+Wiki UNC Link
+
+
+(21.14714002609253, 'seconds')
